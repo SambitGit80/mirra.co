@@ -1,0 +1,5 @@
+com/mirra/automation/steps/SignUpSteps.class
+com/mirra/automation/runner/RunCucumberTest.class
+com/mirra/automation/pages/SignUpPage.class
+com/mirra/automation/config/TestConfig.class
+com/mirra/automation/hooks/Hooks.class

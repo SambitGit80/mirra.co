@@ -1,0 +1,14 @@
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/config/TestConfig.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/context/ScenarioContext.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/hooks/Hooks.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/pages/EmailVerificationPage.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/pages/ProfessionOnboardingPage.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/pages/ProfileOnboardingPage.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/pages/SignUpPage.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/pages/WelcomePage.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/runner/RunCucumberTest.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/steps/SignUpSteps.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/util/MirraUrls.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/util/OtpParser.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/util/RandomTestData.java
+/Users/apple/Desktop/ProjectNew/Mira/src/test/java/com/mirra/automation/yopmail/YopmailInboxReader.java

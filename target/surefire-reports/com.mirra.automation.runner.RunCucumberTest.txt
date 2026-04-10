@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.mirra.automation.runner.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 130.6 s <<< FAILURE! -- in com.mirra.automation.runner.RunCucumberTest
+com.mirra.automation.runner.RunCucumberTest.runScenario["Mirra email Continue and OTP from YOPmail", "Mirra sign-up page"](1) -- Time elapsed: 130.2 s <<< FAILURE!
+java.lang.AssertionError: No OTP digits found in YOPmail message body for karan@yopmail.com expected object to not be null
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.assertNotNull(Assert.java:1484)
+	at com.mirra.automation.steps.SignUpSteps.i_fetch_the_otp_from_yopmail_for(SignUpSteps.java:96)
+	at ✽.I fetch the OTP from YOPmail for "karan@yopmail.com"(classpath:features/sign_up.feature:27)
+
